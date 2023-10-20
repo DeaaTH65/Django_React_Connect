@@ -24,7 +24,8 @@ function App() {
 
   return (
     <>
-      hello world
+      React Connected with Django <br />
+      Display the posts here.
     </>
   )
 }
